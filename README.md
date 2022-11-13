@@ -1,4 +1,4 @@
-##  Olá! Eu sou Kaique Pardinho, programador frontend!
+##  Olá! Eu sou Kaique Pardinho, programador Frontend!
 <div align="center">
   <a href="https://github.com/kaiquepardinho">
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=kaiquepardinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
