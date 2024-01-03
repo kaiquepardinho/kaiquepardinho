@@ -1,4 +1,4 @@
-##  Olá! Eu sou Kaique Pardinho, programador Frontend!
+##  Olá! Eu sou Kaique Pardinho, Desenvolvedor Web!
  
 <div> 
   <a href="https://instagram.com/kaiqu_ealves/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
